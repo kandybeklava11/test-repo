@@ -1,2 +1,4 @@
-package peaksoft.controller;public class FollowerController {
+package peaksoft.controller;
+
+public class FollowerController {
 }
